@@ -22,7 +22,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Introduction
 
-Cyxion is a privacy-focused cryptocoin that was launched on January 1, 2024. The maximum quantity of Cyxion is about 184 million CYX with a slow and steady emission over 50 years. This is a fork of Monero, created mainly for VPN operation.
+Cyxion is a privacy-focused cryptocoin that was launched on January 1, 2024. This is a fork of Monero, created mainly for VPN operation.
 
 ## About this project
 
@@ -46,7 +46,7 @@ Dates are provided in the format YYYY-MM-DD.
 
 | Software upgrade block height  | Date       | Issue name        | Minimum Cyxion version | Recommended Cyxion version | Details                                                                            |
 | ------------------------------ | -----------| ----------------- | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
-| 1                              | 2024-01-01 | butterfly         | v0.9.4                 | v0.9.4                     | blocktime = 120 seconds, fee-free blocksize 60 kb       |
+| 1                              | 2024-01-01 | Snowflake         | v0.1.1.0                | v0.1.1.0                  | blocktime = 120 seconds, fee-free blocksize 60 kb       |
 
 
 X's indicate that these details have not been determined as of commit date.
