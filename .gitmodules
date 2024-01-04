@@ -1,0 +1,16 @@
+[submodule "external/miniupnp"]
+	path = external/miniupnp
+	url = https://github.com/miniupnp/miniupnp
+[submodule "external/randomcyx"]
+	path = external/randomcyx
+	url = https://github.com/cyxion-project/RandomCYX
+[submodule "external/rapidjson"]
+	path = external/rapidjson
+	url = https://github.com/Tencent/rapidjson
+[submodule "external/trezor-common"]
+	path = external/trezor-common
+	url = https://github.com/trezor/trezor-common
+[submodule "external/supercop"]
+	path = external/supercop
+	url = https://github.com/monero-project/supercop
+	branch = monero
