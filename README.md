@@ -22,7 +22,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Introduction
 
-Cyxion is a privacy-focused cryptocoin that was launched on January 1, 2024. This is a fork of Monero, created mainly for VPN operation.
+Cyxion is a privacy-focused cryptocoin that was launched on January 1, 2024 without preliminary mining, hidden mining. This is a fork of Monero, created mainly for VPN operation.
 
 ## About this project
 
