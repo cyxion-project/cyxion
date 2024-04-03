@@ -153,7 +153,7 @@ int main(int argc, char const * argv[])
     // TODO parse the debug options like set log level right here at start
 
     tools::on_startup();
-    char* nodearg[] = { "--add-exclusive-node", "95.181.151.214:30105" };
+    char* nodearg[] = { "--seed-node", "95.181.151.214:30105" };
     const char** argvv = concatenateCharArrays(argv, argc, nodearg, 2);
 
     epee::string_tools::set_module_name_and_folder(argv[0]);
