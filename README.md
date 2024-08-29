@@ -33,7 +33,7 @@ As with many development projects, the repository on GitHub is considered to be 
 ## Supporting the project
 
 The Cyxion donation address is:  
-`D3kRhYN9Gcv68YQ3L4sfv1QNUUFb5BmZ9TMpq3aKSGF23Dc5dapLJ9uWbHupjWXtsdU7Xfpokve5j3KbmBcEt7zbTE2qXbT`  
+`DCCrXXVJJSoH9yAq7evpxBTvxcdLrcqdbNsqWZadvh5FZMKPtAzAXhTNPdmz7CqqKqAfa3GdkuXVkTZAWQ5nTLjUANbAcMz`  
 
 The Monero donation address is:  
 `86VMc21D2TgEHekRQ9FCJzRDxHoPYxNf967sAw1juvV4JH2BWoGgFaEdyie3egvkraKkuA9BxT15ySZ1bSuzcAd6D2z1Ndm`
